@@ -1,8 +1,6 @@
 # Nginx with PHP-FPM: High Concurrency Handling
 
 ```markdown
-# Nginx with PHP-FPM: High Concurrency Handling
-
 ## Overview
 
 This document explains how an Nginx web server handles high concurrency when serving a PHP Laravel application using PHP-FPM (FastCGI Process Manager).
